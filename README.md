@@ -21,7 +21,7 @@ A real-time accident detection app using **YOLOv8** and **Streamlit**. This syst
 ---
 ## 📸 Sample Output
 
-<img src="./assets/screenshots/Screenshot%202025-07-08%20185232.png" width="600"/>
+<img srchttps://github.com/KaranMishra22/AccidentDetection/blob/main/assests/screenshots/Screenshot%202025-07-08%20185232.png>
 
 ---
 
